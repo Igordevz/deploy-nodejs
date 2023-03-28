@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsx src/server.ts ",
     "dev": "tsx watch src/server.ts",
-
+    "build":"tsup src"
   },
   "keywords": [],
   "author": "",
@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "tslint": "^5.12.1",
-    "typescript": "^3.3.3"
+    "tsup": "^6.7.0",
+    "typescript": "^3.9.10"
   }
 }
