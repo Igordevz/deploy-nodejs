@@ -20,12 +20,13 @@
     "mongoose": "^7.0.3",
     "nodemailer": "^6.9.1",
     "tsx": "^3.12.6",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "tsup": "^6.7.0"
+
   },
   "devDependencies": {
     "dotenv": "^16.0.3",
     "tslint": "^5.12.1",
-    "tsup": "^6.7.0",
     "typescript": "^5.0.2"
   }
 }
